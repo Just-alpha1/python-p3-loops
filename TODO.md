@@ -1,0 +1,4 @@
+- [ ] Implement happy_new_year function using while loop
+- [ ] Implement square_integers function using list comprehension
+- [ ] Implement fizzbuzz function using for loop
+- [ ] Run pytest to verify implementations
